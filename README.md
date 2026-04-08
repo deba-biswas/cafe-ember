@@ -90,15 +90,33 @@ It enables customers to browse menus and place orders, while staff and admins ma
 
 ---
 
-## 📸 Screenshots (Add these)
+## 📸 Screenshots 
 
-> Add screenshots here for better impact:
 
 * 🏠 Home / Menu UI
+<p align="center">
+  <img src="screenshots/HomeLight.png" width="45%" />
+  <img src="screenshots/Home.png" width="45%" />
+</p>
 * 🛒 Cart & Checkout
+<p align="center">
+  <img src="screenshots/Cart.png" width="45%" />
+  <img src="screenshots/Checkout.png" width="45%" />
+</p>
 * 🧾 Order Receipt PDF
+<p align="center">
+  <img src="screenshots/Receipt.png" width="45%" />
+</p>
 * 🧑‍🍳 Kitchen Dashboard
+<p align="center">
+  <img src="screenshots/StaffOrder.png" width="45%" />
+  <img src="screenshots/StaffOrderCompleted.png" width="45%" />
+</p>
 * 📊 Admin Dashboard
+<p align="center">
+  <img src="screenshots/AdminAddItem.png" width="45%" />
+  <img src="screenshots/AdminAddStaff.png" width="45%" />
+</p>
 
 ---
 
